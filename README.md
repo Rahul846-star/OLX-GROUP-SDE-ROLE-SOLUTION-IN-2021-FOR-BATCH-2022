@@ -33,6 +33,8 @@
  <p align="center"><img src="https://github.com/Ashish2030/OLX-GROUP-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/main/Assests/OLX_page.png"/> 
 
   <p align="center"><img src="https://github.com/Ashish2030/OLX-GROUP-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/blob/main/Assests/OLX_end_page.png"/> 
+     <h1 align="center">𝐓𝐢𝐩𝐬</h1>
+<p align="center">Focus on Coding Round If you will able to clear its 1'st Round than chances of getting Placed in this company is very High with a Decent Package(6-8LPA)</p>
    
    <p align="center">
     <a href="https://www.olxgroup.com/" target="blank">View Demo</a>
